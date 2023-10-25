@@ -17,11 +17,3 @@
 
 ### Main skills:
 [![My skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,figma,java,mysql,aws)](https://skills.thijs.gg)
-
-
-### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-
