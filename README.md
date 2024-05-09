@@ -16,4 +16,4 @@
 
 
 ### Main skills:
-[![My skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,figma,java,mysql,aws)](https://skills.thijs.gg)
+[![My skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,figma,java,mysql,aws,spring)](https://skills.thijs.gg)
